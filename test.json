@@ -1,0 +1,1168 @@
+{
+    "d": {
+        "query": {
+            "__metadata": {
+                "type": "Microsoft.Office.Server.Search.REST.SearchResult"
+            },
+            "ElapsedTime": 335,
+            "PrimaryQueryResult": {
+                "__metadata": {
+                    "type": "Microsoft.Office.Server.Search.REST.QueryResult"
+                },
+                "CustomResults": {
+                    "__metadata": {
+                        "type": "Collection(Microsoft.Office.Server.Search.REST.CustomResult)"
+                    },
+                    "results": []
+                },
+                "QueryId": "757841d8-7ac7-4222-ab35-d9d6a617bcd4",
+                "QueryRuleId": "00000000-0000-0000-0000-000000000000",
+                "RefinementResults": null,
+                "RelevantResults": {
+                    "__metadata": {
+                        "type": "Microsoft.Office.Server.Search.REST.RelevantResults"
+                    },
+                    "GroupTemplateId": null,
+                    "ItemTemplateId": null,
+                    "Properties": {
+                        "__metadata": {
+                            "type": "Collection(SP.KeyValue)"
+                        },
+                        "results": [
+                            {
+                                "Key": "GenerationId",
+                                "Value": "9223372036854775806",
+                                "ValueType": "Edm.Int64"
+                            },
+                            {
+                                "Key": "indexSystem",
+                                "Value": "",
+                                "ValueType": "Edm.String"
+                            },
+                            {
+                                "Key": "ExecutionTimeMs",
+                                "Value": "203",
+                                "ValueType": "Edm.Int32"
+                            },
+                            {
+                                "Key": "QueryModification",
+                                "Value": "azadehkhojandi -ContentClass=urn:content-class:SPSPeople",
+                                "ValueType": "Edm.String"
+                            },
+                            {
+                                "Key": "RenderTemplateId",
+                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Group_Default.js",
+                                "ValueType": "Edm.String"
+                            },
+                            {
+                                "Key": "StartRecord",
+                                "Value": "0",
+                                "ValueType": "Edm.Int32"
+                            },
+                            {
+                                "Key": "IsLastBlockInSubstrate",
+                                "Value": "true",
+                                "ValueType": "Edm.Boolean"
+                            },
+                            {
+                                "Key": "IsFirstBlockInSubstrate",
+                                "Value": "false",
+                                "ValueType": "Edm.Boolean"
+                            },
+                            {
+                                "Key": "IsFirstPinnedResultBlock",
+                                "Value": "false",
+                                "ValueType": "Edm.Boolean"
+                            },
+                            {
+                                "Key": "IsLastPinnedResultBlock",
+                                "Value": "false",
+                                "ValueType": "Edm.Boolean"
+                            },
+                            {
+                                "Key": "IsFirstRankedResultBlock",
+                                "Value": "true",
+                                "ValueType": "Edm.Boolean"
+                            },
+                            {
+                                "Key": "IsLastRankedResultBlock",
+                                "Value": "true",
+                                "ValueType": "Edm.Boolean"
+                            },
+                            {
+                                "Key": "MixedTableOrder",
+                                "Value": "0",
+                                "ValueType": "Edm.Int32"
+                            }
+                        ]
+                    },
+                    "ResultTitle": null,
+                    "ResultTitleUrl": null,
+                    "RowCount": 10,
+                    "Table": {
+                        "__metadata": {
+                            "type": "SP.SimpleDataTable"
+                        },
+                        "Rows": {
+                            "results": [
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.8431529998779",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729435332",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Tech Summit Presentation/BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure.zip",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Tech Summit Presentation/BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure.zip",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Tech Summit Presentation/BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure.zip",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.6936645507813",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594368477221",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft.sharepoint.com/teams/FY18_Tech_Summit_Team_Planning_Site/field site/SiteAssets/FY18 Tech Summit Field Site Notebook/Sydney.one",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft.sharepoint.com/teams/FY18_Tech_Summit_Team_Planning_Site/field site/SiteAssets/FY18 Tech Summit Field Site Notebook/Sydney.one",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft.sharepoint.com/teams/FY18_Tech_Summit_Team_Planning_Site/field site/SiteAssets/FY18 Tech Summit Field Site Notebook/Sydney.one",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "Sydney",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.6617183685303",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594092925072",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Forms/DispForm.aspx?ID=203",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Forms/DispForm.aspx?ID=203",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Forms/DispForm.aspx?ID=203",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "VisaAppointmentPayment",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.355770111084",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729415861",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/ML OpenHack/HotDogOrSussageDog.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/ML OpenHack/HotDogOrSussageDog.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/ML OpenHack/HotDogOrSussageDog.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "HotDogOrSussageDog",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.3468360900879",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729352213",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/startcon/startcon - Pishi the Cat Bot.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/startcon/startcon - Pishi the Cat Bot.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/startcon/startcon - Pishi the Cat Bot.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "startcon - Pishi the Cat Bot",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.3154716491699",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729435136",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/ML OpenHack/HotDogOrSussageDog-azadeh.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/ML OpenHack/HotDogOrSussageDog-azadeh.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/ML OpenHack/HotDogOrSussageDog-azadeh.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "HotDogOrSussageDog-azadeh",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.2879848480225",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729417038",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Tech Summit Presentation/BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Tech Summit Presentation/BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Tech Summit Presentation/BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "BRK2054_NET NEW_Build and deploy Node js apps with Visual Studio Code and Azure",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.2839641571045",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729415864",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/girlsdotnet/CogServices.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/girlsdotnet/CogServices.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/girlsdotnet/CogServices.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "CogServices",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.276273727417",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594779541997",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Presentation.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Presentation.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/Presentation.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "Presentation",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "__metadata": {
+                                        "type": "SP.SimpleDataRow"
+                                    },
+                                    "Cells": {
+                                        "results": [
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Rank",
+                                                "Value": "26.2681045532227",
+                                                "ValueType": "Edm.Double"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "DocId",
+                                                "Value": "17594729435140",
+                                                "ValueType": "Edm.Int64"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Path",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/NDC London/NDC London AI.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Url",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/NDC London/NDC London AI.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "OriginalPath",
+                                                "Value": "https://microsoft-my.sharepoint.com/personal/azkhojan_microsoft_com/Documents/Presentations/NDC London/NDC London AI.pptx",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Title",
+                                                "Value": "NDC London AI",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "PartitionId",
+                                                "Value": "ec63b09b-9748-47ba-9018-beeadd405204",
+                                                "ValueType": "Edm.Guid"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "UrlZone",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "Culture",
+                                                "Value": "en-US",
+                                                "ValueType": "Edm.String"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "ResultTypeId",
+                                                "Value": "0",
+                                                "ValueType": "Edm.Int32"
+                                            },
+                                            {
+                                                "__metadata": {
+                                                    "type": "SP.KeyValue"
+                                                },
+                                                "Key": "RenderTemplateId",
+                                                "Value": "~sitecollection/_catalogs/masterpage/Display Templates/Search/Item_Default.js",
+                                                "ValueType": "Edm.String"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "TotalRows": 36,
+                    "TotalRowsIncludingDuplicates": 39
+                },
+                "SpecialTermResults": null
+            },
+            "Properties": {
+                "__metadata": {
+                    "type": "Collection(SP.KeyValue)"
+                },
+                "results": [
+                    {
+                        "Key": "RowLimit",
+                        "Value": "10",
+                        "ValueType": "Edm.Int32"
+                    },
+                    {
+                        "Key": "SourceId",
+                        "Value": "8413cd39-2156-4e00-b54d-11efd9abdb89",
+                        "ValueType": "Edm.Guid"
+                    },
+                    {
+                        "Key": "CorrelationId",
+                        "Value": "e2f8829e-1022-0000-a61d-ca6abb8ab379",
+                        "ValueType": "Edm.Guid"
+                    },
+                    {
+                        "Key": "WasGroupRestricted",
+                        "Value": "false",
+                        "ValueType": "Edm.Boolean"
+                    },
+                    {
+                        "Key": "IsPartial",
+                        "Value": "false",
+                        "ValueType": "Edm.Boolean"
+                    },
+                    {
+                        "Key": "HasParseException",
+                        "Value": "false",
+                        "ValueType": "Edm.Boolean"
+                    },
+                    {
+                        "Key": "WordBreakerLanguage",
+                        "Value": "en",
+                        "ValueType": "Edm.String"
+                    },
+                    {
+                        "Key": "IsPartialUpnDocIdMapping",
+                        "Value": "false",
+                        "ValueType": "Edm.Boolean"
+                    },
+                    {
+                        "Key": "EnableInterleaving",
+                        "Value": "true",
+                        "ValueType": "Edm.Boolean"
+                    },
+                    {
+                        "Key": "IsMissingUnifiedGroups",
+                        "Value": "false",
+                        "ValueType": "Edm.Boolean"
+                    },
+                    {
+                        "Key": "Constellation",
+                        "Value": "iC65EF",
+                        "ValueType": "Edm.String"
+                    },
+                    {
+                        "Key": "SerializedQuery",
+                        "Value": "<Query Culture=\"en-US\" EnableStemming=\"True\" EnablePhonetic=\"False\" EnableNicknames=\"False\" IgnoreAllNoiseQuery=\"True\" SummaryLength=\"180\" MaxSnippetLength=\"180\" DesiredSnippetLength=\"90\" KeywordInclusion=\"0\" QueryText=\"azadehkhojandi\" QueryTemplate=\"\" TrimDuplicates=\"True\" Site=\"c5bc4bcc-1a63-4f39-8175-4f789765c0ed\" Web=\"97b22820-0d64-44e4-8290-017aad80869d\" KeywordType=\"True\" HiddenConstraints=\"\" />",
+                        "ValueType": "Edm.String"
+                    }
+                ]
+            },
+            "SecondaryQueryResults": {
+                "__metadata": {
+                    "type": "Collection(Microsoft.Office.Server.Search.REST.QueryResult)"
+                },
+                "results": []
+            },
+            "SpellingSuggestion": "",
+            "TriggeredRules": {
+                "__metadata": {
+                    "type": "Collection(Edm.Guid)"
+                },
+                "results": []
+            }
+        }
+    }
+}

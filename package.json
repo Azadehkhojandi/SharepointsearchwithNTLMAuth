@@ -6,9 +6,13 @@
   "dependencies": {
     "@types/dotenv": "^4.0.3",
     "dotenv": "^6.0.0",
-    "httpntlm": "^1.7.6"
+    "fs": "0.0.1-security",
+    "httpntlm": "^1.7.6",
+    "httpreq": "^0.4.24"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.5.7"
+  },
   "scripts": {
     "start": "node .\\js\\app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
