@@ -5,17 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "@types/dotenv": "^4.0.3",
-    "@types/request": "^2.47.1",
-    "@types/request-promise": "^4.1.42",
     "dotenv": "^6.0.0",
-    "httpntlm": "^1.7.6",
-    "request": "^2.87.0",
-    "request-promise": "^4.2.2",
-    "request-promise-native": "^1.0.5"
+    "httpntlm": "^1.7.6"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "tsc | node .\\js\\app.js",
+    "start": "node .\\js\\app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
