@@ -2,8 +2,6 @@
 
 declare module 'httpntlm' {
 
-
-
         function get( options, finalCallback);
         function put( options, finalCallback);
         function patch( options, finalCallback);
@@ -11,9 +9,6 @@ declare module 'httpntlm' {
         function options( options, finalCallback);
         function _delete(method, options, finalCallback);
 
-    
-
-    
    }
 
 
