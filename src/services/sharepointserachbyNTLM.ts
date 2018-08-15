@@ -4,7 +4,9 @@
 import {sharepointsearchparser} from './sharepointsearchParser';
 import * as fs from 'fs';
 
-var httpntlm = require('httpntlm');
+//var httpntlm = require('httpntlm');
+
+import * as httpntlm from 'httpntlm';
 
 class sharepointserachbyNTLM {
     mocksearch(query: string)
@@ -37,8 +39,17 @@ class sharepointserachbyNTLM {
                 if (err) {
                     reject(err);
                 } else {
-                    let parsedresult=new sharepointsearchparser().parse(res);
-                    resolve(parsedresult);
+                    if(res && res.body)
+                    {
+                        let parsedresult=new sharepointsearchparser().parse(res.body);
+                        resolve(parsedresult);
+                    }
+                    else
+                    {
+                        console.log('invalid result');
+                        reject('invalid result');
+                    }
+                    
                 }
             });
         });
