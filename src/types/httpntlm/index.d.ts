@@ -7,7 +7,7 @@ declare module 'httpntlm' {
         function patch( options, finalCallback);
         function post( options, finalCallback);
         function options( options, finalCallback);
-        function _delete(method, options, finalCallback);
+        function _delete ( options, finalCallback);
 
    }
 
