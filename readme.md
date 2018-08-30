@@ -1,4 +1,4 @@
-# Sharepoint seach API with NTLM authentication protocol
+# Sharepoint search API with NTLM authentication protocol
 
 This is a sample project to show how you can call sharepoint search api with NTLM protocol in typescript.
 
